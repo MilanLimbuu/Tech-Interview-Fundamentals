@@ -1,5 +1,6 @@
 # Tech-Interview-Fundamentals
-Most of the biggie tech companies like Microsoft focus mainly on data structures. It appears as if data structures is the only thing that they expect from a graduate
+Most of the biggie tech companies like Microsoft, Facebook, Google focus mainly on data structures. It appears as if data structures is the only thing that they expect from a graduate.
+
 No, there's more. For example, we also expect that you be a quick learner who can learn new frameworks, APIs or even programming languages within a short amount of time. That's a bare minimum bar. Someone who takes a long time to learn a new framework, API or language will not be a successful developer on most teams at Microsoft.
 
 And of course there are many more aspects that we focus on in interviews other than just raw knowledge of data structures. Ability to deal with ambiguous specifications, for example, or ability to recognize coding patterns that produce insecure code, or a dozen other things. But ability to understand data structures certainly is a very big one.
