@@ -24,4 +24,4 @@ Well it certainly will prevent you from getting a job on my team. But like I sai
 
 Is the knowledge in this subject really a sufficient basis to differentiate a good and a bad programmer?
 
-No. But it is almost always sufficient to detect developers who are unlikely to be successful at Microsoft. Since that is what I am primarily interested in detecting, knowledge of data structures is one of the factors I test for in interviews.
+No. But it is almost always sufficient to detect developers who are unlikely to be successful at Microsoft, Google and Facebook. Since that is what I am primarily interested in detecting, knowledge of data structures is one of the factors I test for in interviews.
