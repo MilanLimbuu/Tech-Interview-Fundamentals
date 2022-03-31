@@ -20,8 +20,8 @@ Whilst, working for my previous employer, I used to ask these interview question
 
 Does not having knowledge in Data Structures really affect one's career in programming?
 
-Well it certainly will prevent you from getting a job on my team. But like I said before, programming is a huge field. There are lots of kinds of computer programming that don't require knowledge of data structures.
+Well it certainly will prevent you from getting a job on those teams. But like I said before, programming is a huge field. There are lots of kinds of computer programming that don't require knowledge of data structures.
 
 Is the knowledge in this subject really a sufficient basis to differentiate a good and a bad programmer?
 
-No. But it is almost always sufficient to detect developers who are unlikely to be successful at Microsoft, Google and Facebook. Since that is what I am primarily interested in detecting, knowledge of data structures is one of the factors I test for in interviews.
+No. But it is almost always sufficient to detect developers who are unlikely to be successful at Microsoft, Google and Facebook. Since that is what I was primarily interested in, detecting slight knowledge of data structures was one of the most important factors I used to test for in screening interviews.
