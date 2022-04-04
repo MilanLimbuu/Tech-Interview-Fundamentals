@@ -1,4 +1,4 @@
-Searching in Data Structure – Different Search Methods Explained
+# Searching in Data Structure – Different Search Methods Explained
 
 Introduction
 In today’s world, the communication network is expanding at a very fast rate. Businesses are going digital to improve management efficiency. The amount of data generated on the internet is increasing, and as a result, datasets are becoming more complex. It is important to organize, manage, access, and analyze the data carefully and efficiently, a data structure is the most helpful method, and the article focuses on it
@@ -12,7 +12,7 @@ Data structures help us to manage large amounts of data, such as huge databases.
 
 The concepts of searching in a data structure, as well as its methods, are covered in this article.
 
-What is Searching in Data Structure?
+## What is Searching in Data Structure?
 Searching in data structure refers to the process of finding the required information from a collection of items stored as elements in the computer memory. These sets of items are in different forms, such as an array, linked list, graph, or tree. Another way to define searching in the data structures is by locating the desired element of specific characteristics in a collection of items.
 
 Searching Methods
